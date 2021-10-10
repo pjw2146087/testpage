@@ -40,7 +40,7 @@ email: pjw2146087@126.com
 avatar: assets/images/pan1.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/testt" # the subpath of your site, e.g. /blog
+baseurl: "/testpage" # the subpath of your site, e.g. /blog
 url: "pjw2146087.github.io" # the base hostname & protocol for your site
 
 # Social settings
